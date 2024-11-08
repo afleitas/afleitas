@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Alejandro Fleitas, an actuary from the University of Buenos Aires and a Master's in Mathematical Statistics.
+I'm Alejandro Fleitas, an Actuary and a Master's in Mathematical Statistics from the University of Buenos Aires.
 
 ### Skills 🛠️
 
