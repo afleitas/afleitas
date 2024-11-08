@@ -5,7 +5,7 @@ I'm Alejandro Fleitas, an actuary from the University of Buenos Aires and a Mast
 ### Skills 🛠️
 
 - 🐍 **Languages and Tools:** Python, SQL, AWS, Databricks  
-- 📊 **Experience:** Data science, statistical modeling, and machine learning focused on fintech and risk strategy  
+- 📊 **Experience:** Data science, statistical modeling, machine learning and NLP Models focused on fintech and risk strategy  
 - 📈 **Areas of Interest:** Data analysis, predictive models, and financial risk management  
 
 ### Projects 🚀
